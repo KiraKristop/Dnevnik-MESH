@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DnevnikMESH_By_KiraKris/1.0.0": {
+        "runtime": {
+          "DnevnikMESH_By_KiraKris.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DnevnikMESH_By_KiraKris/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

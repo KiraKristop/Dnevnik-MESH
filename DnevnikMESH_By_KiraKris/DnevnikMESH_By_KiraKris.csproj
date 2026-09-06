@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>DnevnikMESH_By_KiraKris</AssemblyName>
+    <Product>DnevnikMESH By KiraKris</Product>
+    <Title>DnevnikMESH By KiraKris</Title>
+    <Company>KiraKris</Company>
+    <Version>1.0.0</Version>
+    <Authors>KiraKris</Authors>
+  </PropertyGroup>
+
+</Project>

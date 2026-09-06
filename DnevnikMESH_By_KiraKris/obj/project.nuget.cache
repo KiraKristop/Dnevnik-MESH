@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lsHpXdfTugU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\makar\\Desktop\\dnevniklib-main\\DnevnikMESH_By_KiraKris\\DnevnikMESH_By_KiraKris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\makar\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.11\\microsoft.net.illink.tasks.10.0.11.nupkg.sha512",
+    "C:\\Users\\makar\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.11\\microsoft.netcore.app.runtime.win-x64.10.0.11.nupkg.sha512",
+    "C:\\Users\\makar\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.11.nupkg.sha512",
+    "C:\\Users\\makar\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.11\\microsoft.aspnetcore.app.runtime.win-x64.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
